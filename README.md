@@ -8,3 +8,4 @@ Training status: ready for Day 1.
 
 It was a complete mess to set up everything.
 
+Just added protection to main branch.
