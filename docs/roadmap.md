@@ -1,4 +1,4 @@
 ## Roadmap
 
-- [ ] TBD
+- [ ] Q1: Document customer workflow.
 
